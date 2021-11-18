@@ -1,0 +1,2 @@
+# Week4IP
+{In this project, I will be acting as a data scientist working for an electric car-sharing service company.  I will be processing the stations' data to understand electric car usage over time by solving the following research question.  Research Question:  Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018}
