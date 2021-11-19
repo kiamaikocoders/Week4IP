@@ -25,3 +25,4 @@ Libraries: Numpy & Pandas.}
 
 # License
 {MIT}
+Copyright (c) {2021} {Moringa School Data Science Class}
